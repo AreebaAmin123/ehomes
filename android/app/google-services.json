@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231789503598",
+    "project_id": "ehomes-7471b",
+    "storage_bucket": "ehomes-7471b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231789503598:android:e34a6a185a359b592bf27f",
+        "android_client_info": {
+          "package_name": "com.ehomes.ehomes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxY7Rp8eHDD0D75Te5rhIv20zVjRlvDiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

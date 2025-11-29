@@ -1,0 +1,2 @@
+C:/Users/Syeda/IdeaProjects/easy_mart_app/android/app/.cxx/Debug/241e6714/x86/CMakeFiles/edit_cache.dir
+C:/Users/Syeda/IdeaProjects/easy_mart_app/android/app/.cxx/Debug/241e6714/x86/CMakeFiles/rebuild_cache.dir

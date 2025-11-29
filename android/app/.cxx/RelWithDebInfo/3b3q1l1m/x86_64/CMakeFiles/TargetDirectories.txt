@@ -1,0 +1,2 @@
+C:/Users/Syeda/cursor ai/easy_mart_app/android/app/.cxx/RelWithDebInfo/3b3q1l1m/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Syeda/cursor ai/easy_mart_app/android/app/.cxx/RelWithDebInfo/3b3q1l1m/x86_64/CMakeFiles/rebuild_cache.dir
